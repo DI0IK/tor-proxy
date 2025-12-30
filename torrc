@@ -2,4 +2,5 @@ HardwareAccel 1
 Log notice stdout
 DNSPort 0.0.0.0:8853
 SocksPort 0.0.0.0:9150
+HTTPTunnelPort 0.0.0.0:9080
 DataDirectory /var/lib/tor
